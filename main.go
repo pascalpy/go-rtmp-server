@@ -113,7 +113,7 @@ func main() {
 				<!DOCTYPE html>
 <html>
 	<head>
-		<title>Demo live</title>
+		<title>Experience | Live</title>
 		<style>
 		body {
 			margin:0;
